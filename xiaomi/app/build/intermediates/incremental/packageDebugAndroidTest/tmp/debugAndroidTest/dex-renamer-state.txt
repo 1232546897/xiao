@@ -1,0 +1,4 @@
+#Thu May 16 14:40:56 GMT+08:00 2024
+base.0=C\:\\xiaomi\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
